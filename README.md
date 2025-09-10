@@ -41,6 +41,6 @@
 
     >опоп
 
-<https://share.google/nohObUW2CjzjfzcFh/>
+<https://share.google/nohObUW2CjzjfzcFh>
 
-[wikipedia](https://share.google/nohObUW2CjzjfzcFh)
+[wikipedia 52](https://share.google/nohObUW2CjzjfzcFh)
