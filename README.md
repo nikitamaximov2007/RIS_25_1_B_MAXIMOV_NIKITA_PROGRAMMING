@@ -1,5 +1,8 @@
 #zagolovok(ronaldo)#
-
+*курсив*
 ##zagolovok(messi)#
-
+**жирный**
 ###zagolovok(neymar)###
+***ЖИРНЫЙ***
+ба**н**ан
+~~матильда~~
